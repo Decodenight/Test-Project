@@ -4,7 +4,7 @@ A modern, responsive clone of Slack's landing page built with React, Redux Toolk
 
 ## 🚀 Live Demo
 
-[View Live Demo](#) <!-- Add your deployed project URL here -->
+[View Live Demo]([#](https://test-project-mauve-tau.vercel.app/)) <!-- Add your deployed project URL here -->
 
 ## ✨ Features
 
